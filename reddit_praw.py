@@ -9,11 +9,11 @@ def get_string(text):
 
 reddit = praw.Reddit(
 
-	client_id="b9SdO8ifHtk3ekbOcC0QcA",
+	client_id="123",
 
-	client_secret="-lMnoph-3cdS4_Cfk65c1i9cc_RM4A",
+	client_secret="123",
 
-	user_agent="Narrow-Working5785" )
+	user_agent="123" )
 
 # print(reddit.read_only) # Output: True
 
